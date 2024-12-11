@@ -16,7 +16,7 @@ calBtn.addEventListener("click", ()=> {
             alert("Hey you are under weight!")
         )
         else if (bmi >= 18.6 && bmi < 24.9) (
-            alert("Congrate! You are in your healthy weight!")
+            alert("Congrats! You are in your healthy weight!")
         )
         else {
             alert("Hey you are over weight")

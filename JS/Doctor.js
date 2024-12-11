@@ -34,7 +34,7 @@ document.addEventListener("DOMContentLoaded", () => {
         localStorage.setItem("Current_Doctor", JSON.stringify(currentDoctor));
         window.location.href = "../pages/chat.html";
       }else{
-        alert("Please Sign-in First!")
+        alert("Please Sign-in First! You can do this by clicking the Sign-Up button at the top right corner of the navbar")
       }
     }
      
